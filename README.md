@@ -58,3 +58,12 @@ git clone https://github.com/yourusername/SaJap.git
 
 バグ報告や機能追加の提案は Issues でお願いします。
 このプロジェクトが役に立った場合は、Star をお願いします。
+
+
+---
+
+連絡先
+
+GitHub: Lba11xie
+
+Email: pk81001926@gamil.com
