@@ -42,7 +42,7 @@ PostgreSQL (データベース)
 
 
 
-git clone https://github.com/yourusername/SaJap.git
+git clone https://github.com/lba11xie/SaJap.git
 
 2. Android Studio で開く
 
@@ -112,7 +112,7 @@ Installation
 
 
 
-git clone https://github.com/yourusername/SaJap.git
+git clone https://github.com/lba11xie/SaJap.git
 
 2. Open in Android Studio
 
