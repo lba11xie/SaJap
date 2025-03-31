@@ -67,3 +67,74 @@ git clone https://github.com/yourusername/SaJap.git
 GitHub: Lba11xie
 
 Email: pk81001926@gamil.com
+
+Project Description
+
+SaJap - Japanese Text Analysis App
+
+SaJap is an Android application that performs sentiment analysis on Japanese text.
+This app integrates a Shiny web application via WebView, allowing real-time analysis of Japanese text.
+
+
+---
+
+Main Features
+
+Japanese Text Sentiment Analysis: Determines the sentiment of the entered text
+
+Shiny App Integration: Displays the Shiny app using WebView
+
+Simple and Intuitive UI: Easy-to-use design
+
+Works Offline (some features)
+
+
+
+---
+
+Technologies Used
+
+Android Studio (Kotlin)
+
+WebView API
+
+Shiny Web App (R language)
+
+PostgreSQL (Database)
+
+
+
+---
+
+Installation
+
+1. Clone the repository
+
+
+
+git clone https://github.com/yourusername/SaJap.git
+
+2. Open in Android Studio
+
+
+3. Run on an emulator or physical device
+
+
+
+
+---
+
+Contributions & Feedback
+
+Please report bugs or suggest new features via Issues.
+If you find this project useful, consider giving it a Star.
+
+
+---
+
+Contact
+
+GitHub: Lba11xie
+
+Email: pk81001926@gmail.com
+
